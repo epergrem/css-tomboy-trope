@@ -1,0 +1,25 @@
+/* CSS Document */
+h1 {
+	text-align: center;
+	color: #C0EDA6;
+}
+body {
+	background-color: #FF8080;
+}
+#info {
+	color: #FFF7BC;
+	background-color: #FD5D5D;
+	font-weight: bold;
+}
+h2 {
+	color: #C0EDA6;
+}
+p {
+	color: #FFF7BC;
+	background-color: #FD5D5D;
+}
+#emphasize {
+	color: #FFF7BC;
+	background-color: #FD5D5D;
+	font-weight: bold;
+}
